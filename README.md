@@ -2,6 +2,14 @@
 
 🎯 **Desenvolvedor Júnior Full Stack** apaixonado por tecnologia e sempre buscando evoluir como profissional.
 
+## GitHub Stats
+
+![Bruno Kemel's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunokemel&show_icons=true&theme=radical)
+
+## Linguagens Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunokemel&layout=compact&theme=radical)
+
 ### 🚀 Tech Stack  
 - **Linguagens:** HTML5 | CSS3 | JavaScript | TypeScript | Python  
 - **Frameworks/Bibliotecas:** React | Vue.js | Node.js | Express  
@@ -17,12 +25,5 @@ Atuo no desenvolvimento de interfaces modernas e APIs funcionais. Gosto de escre
 - 📧 br.kemel@gmail.com
 - 🌐 [Portfólio](https://portfoliobrunokemel.vercel.app/)
 
-## GitHub Stats
-
-![Bruno Kemel's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunokemel&show_icons=true&theme=radical)
-
-## Linguagens Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunokemel&layout=compact&theme=radical)
 
 ---
