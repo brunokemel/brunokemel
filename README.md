@@ -15,5 +15,6 @@ Atuo no desenvolvimento de interfaces modernas e APIs funcionais. Gosto de escre
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-kemel-026a22220/)  
 - 📸 [Instagram](https://www.instagram.com/kemel_develop/)  
 - 📧 br.kemel@gmail.com
+- 🌐 [Portfólio](https://portfoliobrunokemel.vercel.app/)
 
 ---
