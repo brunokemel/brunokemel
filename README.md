@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno Kemel
 
-🎯 **Desenvolvedor Júnior Full Stack** apaixonado por tecnologia e sempre buscando evoluir como profissional.
+🎯 **Desenvolvedor Júnior ** apaixonado por tecnologia e sempre buscando evoluir como profissional.
 
 ---
 
