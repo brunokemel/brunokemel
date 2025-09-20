@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Bruno Kemel
+#  Olá! Eu sou o Bruno Kemel
 
-🎯 **Desenvolvedor Júnior ** apaixonado por tecnologia e sempre buscando evoluir como profissional.
+ Desenvolvedor  apaixonado por tecnologia e sempre buscando evoluir como profissional.
 
 ---
 
