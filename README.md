@@ -10,18 +10,6 @@ Gosto de escrever código limpo, aprender novas tecnologias e colaborar em proje
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunokemel&show_icons=true&theme=radical&cache_seconds=1800)
-
----
-
-## Linguagens Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunokemel&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 ### 🖥️ Linguagens
