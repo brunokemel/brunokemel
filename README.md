@@ -36,4 +36,4 @@ Gosto de escrever código limpo, aprender novas tecnologias e colaborar em proje
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-kemel-026a22220/)  
 - 📸 [Instagram](https://www.instagram.com/kemel_develop/)  
 - 📧 br.kemel@gmail.com  
-- 🌐 [Portfólio](devkemel.com.br)
+- 🌐 [Portfólio](https://devkemel.com.br/)
