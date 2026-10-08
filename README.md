@@ -74,6 +74,9 @@ Gosto de construir soluções úteis, melhorar processos existentes e aprender c
 
 ## 🚀 Projetos em destaque
 
+### 🏃 1KMzinho — Plataforma Full Stack de Inscrições para Corridas de Rua
+Plataforma web para comercialização de lotes de inscrições em corridas de rua, desenvolvida com Next.js, Node.js, Express, TypeScript, Prisma e PostgreSQL. Possui integração com o Mercado Pago, gerenciamento de pedidos, processamento de pagamentos e atualização de status por webhooks.
+
 ### 🎵 TubeGrap
 Aplicativo em desenvolvimento voltado a funcionalidades de mídia, com foco em uma interface gráfica prática e na experiência do usuário.
 
