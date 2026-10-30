@@ -95,6 +95,6 @@ Desenvolvo também projetos envolvendo APIs, aplicações web e ferramentas de a
 ## 🤝 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [Bruno Kemel](https://www.linkedin.com/in/bruno-kemel-026a22220/)
-- 📸 **Instagram:** [@kemel_develop](https://www.instagram.com/kemel_develop/)
+- 📸 **Instagram:** [@kemel.js](https://www.instagram.com/kemel.js/)
 - 📧 **E-mail:** br.kemel@gmail.com
 - 🌐 **Portfólio:** [devkemel.com.br](https://devkemel.com.br/)
