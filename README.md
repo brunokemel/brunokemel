@@ -8,7 +8,7 @@ Desenvolvo **APIs, integrações e automações** para transformar processos man
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-kemel-026a22220/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://devkemel.com.br/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kemel_develop/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kemel.js/)
 
 </div>
 
